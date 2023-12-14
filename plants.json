@@ -1,0 +1,43 @@
+{
+    "plants": [
+        {
+            "code": "1010 - Mersey Docs & Harbour",
+        },
+        {
+            "code": "1011 - Mersey Docs & Harbour T1",
+        },       
+        {
+            "code": "1020 - Manchester Ship Canal",
+        },
+        {
+            "code": "1030 - Clydeport Greenock",
+        },
+        {
+            "code": "1031 - Clydeport King George V",
+        },
+        {
+            "code": "1040 - Great Yarmouth",
+        },
+        {
+            "code": "1050 - London Medway",
+        },
+        {
+            "code": "1060 - Heysham Port",
+        },
+        {
+            "code": "1070 - MDHC Container Services (JV)",
+        },
+        {
+            "code": "1080 - Clydeport Ardrossan",
+        },
+        {
+            "code": "1090 - Mersey Docs & Harbour T2",
+        },
+        {
+            "code": "2010 - Dublin Marine Terminals",
+        },
+        {
+            "code": "2020 - DCATS",
+        }
+    ]
+}

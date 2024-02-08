@@ -1,0 +1,70 @@
+{
+    "paymentTerms": [
+        {
+            "code": "ZR00 - Due Immediately"
+        },
+        {
+            "code": "ZR01 - Due within 1 day"
+        },
+        {
+            "code": "ZR02 - Due on the 1st day of the month"
+        },
+        {
+            "code": "ZR03 - Due within 5 days"
+        },
+        {
+            "code": "ZR04 - Due within 7 days"
+        },
+        {
+            "code": "ZR05 - Due within 10 days"
+        },
+        {
+            "code": "ZR06 - Due within 120 days EOM following issue"
+        },
+        {
+            "code": "ZR07 - Due within 14 days"
+        },
+        {
+            "code": "ZR08 - Due within 15 days"
+        },
+        {
+            "code": "ZR09 - Due within 20 days"
+        },
+        {
+            "code": "ZR10 - Due in 20 days EOM following issue"
+        },
+        {
+            "code": "ZR11 - Due within 21 days"
+        },
+        {
+            "code": "ZR12 - Due within 28 days"
+        },
+        {
+            "code": "ZR13 - Due within 30 days"
+        },
+        {
+            "code": "ZR14 - Due in 30 days EOM following issue"
+        },
+        {
+            "code": "ZR15 - Due within 42 days"
+        },
+        {
+            "code": "ZR16 - Due within 45 days"
+        },
+        {
+            "code": "ZR17 - Due in 45 days EOM following issue"
+        },
+        {
+            "code": "ZR18 - Due within 60 days"
+        },
+        {
+            "code": "ZR19 - Due in 60 days EOM following issue"
+        },
+        {
+            "code": "ZR20 - Due within 90 days"
+        },
+        {
+            "code": "ZR21 - Due in 90 days EOM following issue"
+        }
+    ]
+}

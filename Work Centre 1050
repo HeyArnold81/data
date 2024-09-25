@@ -1,0 +1,54 @@
+{
+"Work Centers":[
+{
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0100 - Medway"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0101 - Medway Electrical"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0102 - Medway Mechanical"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0103 - Medway Fabricator\/Welder"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0104 - Medway Operations"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0105 - Medway Cleaners"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0106 - Medway General Workers"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0200 - Chatham"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0201 - Chatham General Workers"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0300 - Medway Marine"
+ }
+]
+}

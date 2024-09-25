@@ -1,0 +1,19 @@
+{
+"Work Centers":[
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0300 - Ardrossan"
+ },
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0301 - Engineering"
+ },
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0302 - Operations"
+ }
+]
+}

@@ -1,0 +1,64 @@
+{
+"Work Centers":[
+{
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0100 - MSC Lower Reaches"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0101 - MSC Lower Reaches Mechanical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0102 - MSC Lower Reaches Electrical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0104 - MSC Floating Craft"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0200 - MSC Middle/Upper Reaches"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0201 - MSC Middle Reaches Mechanical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0202 - MSC Middle Reaches Electrical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0205 - MSC Deposit Grounds"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0400 - MSC Operations"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0401 - MSC Runcorn Operations"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0500 - MSC Marine"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-CONTR - MSC Contractor"
+ }
+]
+}

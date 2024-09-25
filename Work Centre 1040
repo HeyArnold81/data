@@ -1,0 +1,24 @@
+{
+"Work Centers":[
+{
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0100 - Great Yarmouth Maintenance"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0101 - Great Yarmouth Electrical"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0102 - Great Yarmouth Mechanical"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0200 - Great Yarmouth Marine"
+ }
+]
+}

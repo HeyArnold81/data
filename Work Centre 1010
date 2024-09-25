@@ -1,0 +1,99 @@
+{
+"Work Centers":[
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0100 - Liverpool Infrastructure"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0102 - Facilities Internal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0104 - Liverpool Mech Infrastructure"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0105 - Liverpool Elec Infrastructure - Network"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0106 - Liverpool Elec Infrastructure - District"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0200 - Gladstone Biomass Terminal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0201 - Gladstone Biomass Mechanical\/Electrical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0205 - Gladstone Biomass Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0300 - Steel Terminal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0301 - Steel Terminal - Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0400 - Harbour Mobile Team"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0401 - Harbour Mobile Mechl\/Elec"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0500 - Royal Seaforth Grain Terminal - RSGT"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0501 - RSGT Electrical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0502 - RSGT Mechanical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0503 - RSGT Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0600 - Animal Feed Store - AFS"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0601 - AFS Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0800 - Marine"
+ }
+]
+}

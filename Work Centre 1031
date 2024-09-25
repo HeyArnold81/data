@@ -1,0 +1,34 @@
+{
+"Work Centers":[
+{
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0200 - King George V Dock"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0201 - Mechanical"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0202 - Electrical"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0203 - Operations"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0600 - Compliance Team"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0601 - Compliance Engineers"
+ }
+]
+}

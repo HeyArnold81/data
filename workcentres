@@ -1,0 +1,526 @@
+{
+"Work Centers":[
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0100 ",
+  "Short description                       ": "Liverpool Infrastructure"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0102 ",
+  "Short description                       ": "Facilities Internal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0104 ",
+  "Short description                       ": "Liverpool Mech Infrastructure"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0105 ",
+  "Short description                       ": "Liverpool Elec Infrastructure - Network"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0106 ",
+  "Short description                       ": "Liverpool Elec Infrastructure - District"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0200 ",
+  "Short description                       ": "Gladstone Biomass Terminal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0201 ",
+  "Short description                       ": "Gladstone Biomass Mechanical\/Electrical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0205 ",
+  "Short description                       ": "Gladstone Biomass Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0300 ",
+  "Short description                       ": "Steel Terminal"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0301 ",
+  "Short description                       ": "Steel Terminal - Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0400 ",
+  "Short description                       ": "Harbour Mobile Team"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0401 ",
+  "Short description                       ": "Harbour Mobile Mechl\/Elec"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0500 ",
+  "Short description                       ": "Royal Seaforth Grain Terminal - RSGT"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0501 ",
+  "Short description                       ": "RSGT Electrical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0502 ",
+  "Short description                       ": "RSGT Mechanical"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0503 ",
+  "Short description                       ": "RSGT Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0600 ",
+  "Short description                       ": "Animal Feed Store - AFS"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0601 ",
+  "Short description                       ": "AFS Operations"
+ },
+ {
+  "Plnt": "1010",
+  "Plant Description": "Liverpool",
+  "Work Center": "LP-0800 ",
+  "Short description                       ": "Marine"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0100 ",
+  "Short description                       ": "Liverpool Container Services"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0101 ",
+  "Short description                       ": "Liverpool Containers Cranes Electrical"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0102 ",
+  "Short description                       ": "Liverpool Containers Cranes Mechanical"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0103 ",
+  "Short description                       ": "Liverpool Containers General Workers"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0104 ",
+  "Short description                       ": "Liverpool Containers Operations"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0105 ",
+  "Short description                       ": "Liverpool Containers Plant & Equip Elec"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0106 ",
+  "Short description                       ": "Liverpool Containers Plant & Equip Mech"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0107 ",
+  "Short description                       ": "Liverpool Containers Automation Eng"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0108 ",
+  "Short description                       ": "Liverpool Containers Automation Tech"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0100 ",
+  "Short description                       ": "MSC Lower Reaches"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0101 ",
+  "Short description                       ": "MSC Lower Reaches Mechanical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0102 ",
+  "Short description                       ": "MSC Lower Reaches Electrical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0104 ",
+  "Short description                       ": "MSC Floating Craft"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0200 ",
+  "Short description                       ": "MSC Middle\/Upper Reaches"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0201 ",
+  "Short description                       ": "MSC Middle Reaches Mechanical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0202 ",
+  "Short description                       ": "MSC Middle Reaches Electrical"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0205 ",
+  "Short description                       ": "MSC Deposit Grounds"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0400 ",
+  "Short description                       ": "MSC Operations"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0401 ",
+  "Short description                       ": "MSC Runcorn Operations"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-0500 ",
+  "Short description                       ": "MSC Marine"
+ },
+ {
+  "Plnt": "1020",
+  "Plant Description": "Manchester Ship Canal",
+  "Work Center": "SC-CONTR",
+  "Short description                       ": "MSC Contractor"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0100 ",
+  "Short description                       ": "Greenock Ocean Terminal"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0101 ",
+  "Short description                       ": "Mechanical"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0102 ",
+  "Short description                       ": "Electrical"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0103 ",
+  "Short description                       ": "Operations"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0104 ",
+  "Short description                       ": "Fabricator"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0400 ",
+  "Short description                       ": "Hunterston"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0401 ",
+  "Short description                       ": "Enginering"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0402 ",
+  "Short description                       ": "Operations"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0500 ",
+  "Short description                       ": "Marine"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0501 ",
+  "Short description                       ": "Marine Operations"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-0502 ",
+  "Short description                       ": "Marine Engineering"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-1000 ",
+  "Short description                       ": "Clydeport Engineering"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-1001 ",
+  "Short description                       ": "Clydeport Engineering Mechanical"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-1002 ",
+  "Short description                       ": "Clydeport Engineering Electrical"
+ },
+ {
+  "Plnt": "1030",
+  "Plant Description": "Greenock Ocean Terminal                 ",
+  "Work Center": "CP-1003 ",
+  "Short description                       ": "Clydeport Engineering Fabricator"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0200 ",
+  "Short description                       ": "King George V Dock"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0201 ",
+  "Short description                       ": "Mechanical"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0202 ",
+  "Short description                       ": "Electrical"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0203 ",
+  "Short description                       ": "Operations"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0600 ",
+  "Short description                       ": "Compliance Team"
+ },
+ {
+  "Plnt": "1031",
+  "Plant Description": "King George V Dock                      ",
+  "Work Center": "CP-0601 ",
+  "Short description                       ": "Compliance Engineers"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0100 ",
+  "Short description                       ": "Great Yarmouth Maintenance"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0101 ",
+  "Short description                       ": "Great Yarmouth Electrical"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0102 ",
+  "Short description                       ": "Great Yarmouth Mechanical"
+ },
+ {
+  "Plnt": "1040",
+  "Plant Description": "Great Yarmouth",
+  "Work Center": "GY-0200 ",
+  "Short description                       ": "Great Yarmouth Marine"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0100 ",
+  "Short description                       ": "Medway"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0101 ",
+  "Short description                       ": "Medway Electrical"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0102 ",
+  "Short description                       ": "Medway Mechanical"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0103 ",
+  "Short description                       ": "Medway Fabricator\/Welder"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0104 ",
+  "Short description                       ": "Medway Operations"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0105 ",
+  "Short description                       ": "Medway Cleaners"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0106 ",
+  "Short description                       ": "Medway General Workers"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0200 ",
+  "Short description                       ": "Chatham"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0201 ",
+  "Short description                       ": "Chatham General Workers"
+ },
+ {
+  "Plnt": "1050",
+  "Plant Description": "Medway",
+  "Work Center": "MW-0300 ",
+  "Short description                       ": "Medway Marine"
+ },
+ {
+  "Plnt": "1060",
+  "Plant Description": "Heysham                                 ",
+  "Work Center": "HY-0100 ",
+  "Short description                       ": "Heysham"
+ },
+ {
+  "Plnt": "1060",
+  "Plant Description": "Heysham                                 ",
+  "Work Center": "HY-0101 ",
+  "Short description                       ": "Heysham Maintenance"
+ },
+ {
+  "Plnt": "1060",
+  "Plant Description": "Heysham                                 ",
+  "Work Center": "HY-0104 ",
+  "Short description                       ": "Heysham Operations"
+ },
+ {
+  "Plnt": "1060",
+  "Plant Description": "Heysham                                 ",
+  "Work Center": "HY-0200 ",
+  "Short description                       ": "Heysham Marine"
+ },
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0300 ",
+  "Short description                       ": "Ardrossan"
+ },
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0301 ",
+  "Short description                       ": "Engineering"
+ },
+ {
+  "Plnt": "1080",
+  "Plant Description": "Ardrossan                               ",
+  "Work Center": "CP-0302 ",
+  "Short description                       ": "Operations"
+ },
+ {
+  "Plnt": "2010",
+  "Plant Description": "Dublin Marine Terminal",
+  "Work Center": "DB-0100 ",
+  "Short description                       ": "Dublin Marine Terminal Linited - MTL"
+ },
+ {
+  "Plnt": "2010",
+  "Plant Description": "Dublin Marine Terminal",
+  "Work Center": "DB-0101 ",
+  "Short description                       ": "MTL Mechanical"
+ },
+ {
+  "Plnt": "2010",
+  "Plant Description": "Dublin Marine Terminal",
+  "Work Center": "DB-0102 ",
+  "Short description                       ": "MTL Electrical"
+ },
+ {
+  "Plnt": "2010",
+  "Plant Description": "Dublin Marine Terminal",
+  "Work Center": "DB-0103 ",
+  "Short description                       ": "MTL Operations"
+ },
+ {
+  "Plnt": "2020",
+  "Plant Description": "Dublin Container & Transport Services   ",
+  "Work Center": "DB-0200 ",
+  "Short description                       ": "Dublin Container & Transport Services"
+ }
+]
+}

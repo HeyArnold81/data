@@ -1,0 +1,49 @@
+{
+"Work Centers":[
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0100 - Liverpool Container Services"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0101 - Liverpool Containers Cranes Electrical"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0102 - Liverpool Containers Cranes Mechanical"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0103 - Liverpool Containers General Workers"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0104 - Liverpool Containers Operations"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0105 - Liverpool Containers Plant & Equip Elec"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0106 - Liverpool Containers Plant & Equip Mech"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0107 - Liverpool Containers Automation Eng"
+ },
+ {
+  "Plnt": "1011",
+  "Plant Description": "Liverpool Containers",
+  "Work Center": "LC-0108 - Liverpool Containers Automation Tech"
+ }
+]
+}

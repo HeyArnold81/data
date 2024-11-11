@@ -1,0 +1,52 @@
+{
+    "Vendor Payment Terms":[
+     {
+        "Terms": "ZP00 - Due Immediately"
+    },
+    {
+        "Terms": "ZP01 - Due with 1 day"
+    },
+    {
+        "Terms": "ZP02 - Due within 7 days"
+    },
+    {
+        "Terms": "ZP03 - Due with 14 days"
+    },
+    {
+        "Terms": "ZP04 - Due within 15 days"
+    },
+    {
+        "Terms": "ZP05 - Due within 20 days"
+    },
+    {
+        "Terms": "ZP06 - Due within 25 days"
+    },
+    {
+        "Terms": "ZP07 - Due within 28 days"
+    },
+    {
+        "Terms": "ZP08 - Due within 30 days"
+    },
+    {
+        "Terms": "ZP08 - Due within 30 days"
+    },
+    {
+        "Terms": "ZP09 - Due within 30 days EOM following issue"
+    },
+    {
+        "Terms": "ZP10 - Due within 35 days"
+    },
+    {
+        "Terms": "ZP11 - Due within 40 days"
+    },
+    {
+        "Terms": "ZP12 - Due within 42 days"
+    },
+    {
+        "Terms": "ZP13 - Due within 45 days"
+    },
+    {
+        "Terms": "ZP14 - Due within 60 days"
+    }
+]
+}

@@ -28,9 +28,6 @@
         "Terms": "ZP08 - Due within 30 days"
     },
     {
-        "Terms": "ZP08 - Due within 30 days"
-    },
-    {
         "Terms": "ZP09 - Due within 30 days EOM following issue"
     },
     {
@@ -47,6 +44,9 @@
     },
     {
         "Terms": "ZP14 - Due within 60 days"
+    },
+    {
+        "Terms": "ZP15 - Due on the 19th of the month following"
     }
 ]
 }
